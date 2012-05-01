@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="${1:}">
+    ${0:}
+</div>
+]]></content>
+    <tabTrigger>div</tabTrigger>
+    <scope>source.HTML, source.PHP, source.python</scope>
+    <description>Div with class</description>
+</snippet>

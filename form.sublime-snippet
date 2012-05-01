@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<form action="${1:${TM_FILENAME/(.*?)\..*/$1.php/}}" method="${2:post}" accept-charset="utf-8">
+    $0
+    
+    <input type="submit" value="Continue &rarr;" />
+</form>
+]]></content>
+    <tabTrigger>form</tabTrigger>
+    <scope>source.HTML, source.PHP, source.python</scope>
+    <description>HTML form</description>
+</snippet>

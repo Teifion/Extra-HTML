@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+&amp;
+]]></content>
+    <tabTrigger>&amp;</tabTrigger>
+    <scope>source.HTML, source.PHP, source.python</scope>
+    <description>Ampersand</description>
+</snippet>

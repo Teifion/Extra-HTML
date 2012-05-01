@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<span class="${1:}">${0:}</span>
+]]></content>
+    <tabTrigger>span</tabTrigger>
+    <scope>source.HTML, source.PHP, source.python</scope>
+    <description>Span with class</description>
+</snippet>

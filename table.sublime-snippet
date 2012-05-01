@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<table border="${1:0}"${2: cellspacing="${3:0}" cellpadding="${4:5}"}>
+    <tr>
+        <th>${5:Header}</th>
+    </tr>
+    <tr>
+        <td>${0:Data}</td>
+    </tr>
+</table>
+]]></content>
+    <tabTrigger>table</tabTrigger>
+    <scope>source.HTML, source.PHP, source.python</scope>
+    <description>Table</description>
+</snippet>
