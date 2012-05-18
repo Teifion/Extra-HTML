@@ -5,6 +5,6 @@
 </div>
 ]]></content>
     <tabTrigger>div</tabTrigger>
-    <scope>source.HTML, source.PHP, source.python</scope>
+    <scope>source.HTML, source.php, source.python</scope>
     <description>Div with style</description>
 </snippet>

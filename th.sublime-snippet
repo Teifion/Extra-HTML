@@ -3,6 +3,6 @@
 <th>${0}</th>
 ]]></content>
     <tabTrigger>th</tabTrigger>
-    <scope>source.HTML, source.PHP, source.python</scope>
+    <scope>source.HTML, source.php, source.python</scope>
     <description>Table header</description>
 </snippet>
