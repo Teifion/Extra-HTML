@@ -3,6 +3,6 @@
 &amp;
 ]]></content>
     <tabTrigger>&amp;</tabTrigger>
-    <scope>source.HTML, source.php, source.python</scope>
+    <scope>source.HTML, source.php, source.python, text.xml</scope>
     <description>Ampersand</description>
 </snippet>

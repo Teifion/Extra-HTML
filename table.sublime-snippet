@@ -10,6 +10,6 @@
 </table>
 ]]></content>
     <tabTrigger>table</tabTrigger>
-    <scope>source.HTML, source.php, source.python</scope>
+    <scope>source.HTML, source.php, source.python, text.xml</scope>
     <description>Table</description>
 </snippet>
